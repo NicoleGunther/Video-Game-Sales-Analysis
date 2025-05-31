@@ -3,7 +3,7 @@
 This project explores video game sales data across different regions and years. It focuses on understanding industry trends by genre, publisher, and regional performance using Python and data visualisation.
 
 ## Dataset
-- Source: [[vgsales.csv](./vgsales.csv](https://www.kaggle.com/datasets/gregorut/videogamesales))]
+- Source: [[vgsales.csv](https://www.kaggle.com/datasets/gregorut/videogamesales)]
 - Contains global sales data for video games by platform, genre, publisher, and region (NA, EU, JP, Other)
 
 ## What’s Included
