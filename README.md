@@ -13,7 +13,7 @@ This project explores video game sales data across different regions and years. 
 - Sales insights by region and time
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, plotly, Seaborn)
 - Jupyter Notebook
 
 ## How to Run
@@ -21,7 +21,7 @@ This project explores video game sales data across different regions and years. 
 2. Open `vg_sales_analysis.ipynb` in Jupyter Notebook
 3. Run all cells to see analysis and charts
 
-## 💡 Key Insights
+## Key Insights
 - Sales peaked in **2008-2009**, followed by a decline
 - **Action** and **Sports** are the top-selling genres
 - **Nintendo** dominates publisher rankings across regions
